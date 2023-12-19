@@ -1,9 +1,9 @@
 ### 🎮 I'm a gamedeveloper from Russia
 
 **About me**
-💻 Working on 2d game in Unreal Engine 5
-🎓 Currently learning C++/C# in all depth
-:suspect: Planning to write own engine
+- 💻 Working on 2d game in Unreal Engine 5 <br />
+- 🎓 Currently learning C++/C# in all depth <br />
+- :suspect: Planning to write own engine <br />
 
 Languages and Tools
 
