@@ -1,11 +1,4 @@
-### 🎮 I'm a gamedeveloper from Russia
-
-**About me**
-- 💻 Working on 2d game in Unreal Engine 5 <br />
-- 🎓 Currently learning C++/C# in all depth <br />
-- :suspect: Planning to write own engine <br />
-
-Languages and Tools
+#### Languages and Tools
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoshisoul&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshisoul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | 
 | ------------- | ------------- |
